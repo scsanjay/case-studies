@@ -3,6 +3,7 @@ Have you watched the "Silicon Valley" comedy series of HBO? If so, I bet you rem
 Here is a clip to refresh your memory https://www.youtube.com/watch?v=pqTntG1RXSY
 
 So basically this app identifies whether something is Hot dog or not. Well, we can train with other types of objects to identify them as well. 
+
 When I learned about CNN (Convolutional Neural Network), I was eager to try out some popular CNN models on this problem, just for fun.
 Specifically some of the best performers of ILSVRC (ImageNet Large Scale Visual Recognition Competition). 
 
