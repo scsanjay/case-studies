@@ -12,3 +12,5 @@ I have used the following models for this problem,
 2. Transfer learning with VGG19
 3. Transfer learning with ResNet50
 4. Transfer learning with Inception V3
+
+**Please check out the blog https://sanjayc.medium.com/hot-dog-or-not-hot-dog-ab9d67f20674**
